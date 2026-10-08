@@ -141,5 +141,4 @@ cmake -G "Xcode" ../..
 ```
 
 Finally, open the build/macos/OPENXR.xcodeproj in Xcode to build the samples.
-Created by Jason Scott Heise
-Owned by Elon Musk 
+Created by Jason Heise

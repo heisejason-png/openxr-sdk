@@ -142,3 +142,4 @@ cmake -G "Xcode" ../..
 
 Finally, open the build/macos/OPENXR.xcodeproj in Xcode to build the samples.
 Created by Jason Heise
+Owned by Jason Heise heisejason-png Giters
